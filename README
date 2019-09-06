@@ -1,0 +1,9 @@
+This program can generate random dungeons based off either a user generated
+seed or a software generated seed. It can also save and load maps if the user
+specifies that.
+
+It generates distance maps for tunneling and non tunneling monsters to the player.
+
+Using the "--nummon" flag and an integer you can choose how many monsters you would like to spawn.
+
+Player can be controlled with the numpad. Monster list can be opened with 'm' and closed by pressing 'esc' twice.

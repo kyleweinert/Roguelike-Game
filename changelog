@@ -1,0 +1,9 @@
+14/4:
+	Created arrays in PC to store items
+	Made PC pick up items when walked over
+	Started working on new commands
+15/4:
+	Implemented new commands
+	Got stuck on the wear function
+	Note: wear can break if you try adding items too fast
+	
